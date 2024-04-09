@@ -1,2 +1,4 @@
 myenv/**
+/.venv
+/data
 __pycache__
